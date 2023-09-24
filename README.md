@@ -1,2 +1,2 @@
 # true-north
-A github user search using angular
+A user search using angular
